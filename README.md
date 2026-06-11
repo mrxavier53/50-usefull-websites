@@ -4,6 +4,12 @@ A simple animated webpage with 50 useful websites, sorted into categories like P
 
 Made by **Mr Xavier**.
 
+## Getting Started
+
+1. Download this repository as a ZIP (Code → Download ZIP) or clone it.
+2. Extract/unzip the folder.
+3. Open the extracted folder and follow the steps below.
+
 ## What's in this folder
 
 - `50-usefull-websites.html` → the main page (open this!)
